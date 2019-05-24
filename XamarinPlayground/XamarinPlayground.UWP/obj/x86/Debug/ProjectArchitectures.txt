@@ -1,0 +1,1 @@
+C:\Users\Ron Spark\source\repos\XamarinPlayground\XamarinPlayground\XamarinPlayground.UWP\XamarinPlayground.UWP.csproj;x86
